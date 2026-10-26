@@ -1,0 +1,20 @@
+{
+ "stateKey": "cf138941",
+ "baseline": {
+  "surfTemp": 47.949074074074076,
+  "runoff": 4997.120707193434,
+  "netKwh": 2058000,
+  "irrig": 29181.176470588234,
+  "co2": 1473.528
+ },
+ "maxTotals": {
+  "treesLawn": 977,
+  "treesPaved": 982,
+  "depavePerm": 23640,
+  "depaveLawn": 11820,
+  "coolRoof": 24300,
+  "greenRoof": 12150,
+  "solarCanopy": 8220,
+  "rwhTank": 2000
+ }
+}
